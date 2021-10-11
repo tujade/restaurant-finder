@@ -1,4 +1,6 @@
 # Restaurant-Finder
+![image](https://user-images.githubusercontent.com/86531281/136861120-8e37f697-daae-4133-821c-6e15ba0ab6f7.png)
+
 
 ### Olá, sejam bem vindos a mais um projeto desenvolvido para portfólio!
 
